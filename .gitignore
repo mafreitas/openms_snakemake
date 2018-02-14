@@ -1,0 +1,10 @@
+Snakefile.py
+csv/
+dbsearch/
+fasta/
+.git/
+logs/
+mzml/
+__pycache__/
+.snakemake
+work/
